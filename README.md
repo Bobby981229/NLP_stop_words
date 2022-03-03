@@ -1,5 +1,6 @@
 # NLP_stop_words
 
-Contain a stop words list for NLP Assessment 01/ The University of Sheffield
-Shangyuan Liu
-Cybersecurity and Artificial Intelligence
+### Contain a stop words list for NLP Assessment
+### Shangyuan Liu
+###  The University of Sheffield
+### Cybersecurity and Artificial Intelligence
